@@ -1,0 +1,44 @@
+{
+  "name": "coolshare_react_pub_sub",
+  "version": "0.2.0",
+  "private": false,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^4.3.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "fusioncharts": "^3.18.0",
+    "react-fusioncharts": "^3.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "A package/service to provide publish/subscribe pattern for communication in React",
+  "main": "src/App.js",
+  "keywords": [
+    "pub",
+    "sub",
+    "react",
+    "qian",
+    "coolshare",
+    "patter",
+    "communication"
+  ],
+  "author": {
+    "name": "Monoranjan Gorai",
+    "email": "monoranjang@gmail.com",
+    "url": "https://in.linkedin.com/in/monoranjan-gorai-a3a535195"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolshare/CoolshareReactPubSub.git"
+  },
+  "homepage": "https://reactpubsub.coolshare.surge.sh"
+}
